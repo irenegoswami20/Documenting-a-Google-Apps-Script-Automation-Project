@@ -18,6 +18,14 @@ Employee salary information is maintained in **Google Sheets**. Using Google App
 * Records the corresponding PDF file path in Google Sheets
 * Updates the processing status as **PDF Created / Failed**
 
+<img src="https://github.com/irenegoswami20/Documenting-a-Google-Apps-Script-Automation-Project/blob/7775145cd6387ebf38bd396f284b648a4eafa7d7/employee%20salary%20details.jpg" alt="Image Description" width="600">  
+<br>
+<img src="https://github.com/irenegoswami20/Documenting-a-Google-Apps-Script-Automation-Project/blob/7775145cd6387ebf38bd396f284b648a4eafa7d7/google%20apps%20script%20code.png" alt="Image Description" width="600">  
+<br>
+ <img src="https://github.com/irenegoswami20/Documenting-a-Google-Apps-Script-Automation-Project/blob/7775145cd6387ebf38bd396f284b648a4eafa7d7/generate%20salary%20slips%20automation.png" alt="Image Description" width="600">  
+<br>
+<img src="https://github.com/irenegoswami20/Documenting-a-Google-Apps-Script-Automation-Project/blob/7775145cd6387ebf38bd396f284b648a4eafa7d7/salary%20slips%20created%20-%20drive.png" alt="Image Description" width="600">  
+<br>
 ## Step 2 — Automated Email Distribution
 
 The automation was then extended to create a separate **Email Salary Slips** tab.
@@ -31,6 +39,10 @@ The workflow:
 * Attaches the salary slip automatically to the email
 * Generates a personalized email using the employee's name
 * Updates the status to **Email Sent**
+
+<img src="https://github.com/irenegoswami20/Documenting-a-Google-Apps-Script-Automation-Project/blob/7775145cd6387ebf38bd396f284b648a4eafa7d7/email%20salary%20slips%20automation.png" alt="Image Description" width="600">  
+<br>
+<img src="https://github.com/irenegoswami20/Documenting-a-Google-Apps-Script-Automation-Project/blob/7775145cd6387ebf38bd396f284b648a4eafa7d7/emails%20sent%20-%20gmail.png" alt="Image Description" width="600">
 
 ## Automation Workflow
 
@@ -96,3 +108,4 @@ It demonstrated how everyday administrative processes can be transformed into sc
 ### Topics
 
 `Google Apps Script` `Google Sheets` `Google Drive` `Gmail Automation` `Process Automation` `Document Automation` `Data Analytics` `JavaScript` `Workflow Automation` `ChatGPT` `Learning By Doing`
+
